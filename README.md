@@ -16,3 +16,6 @@ built with Python and scikit-learn.
 ## Example output
 'Congratulations! You won a free iPhone, click here now!' --> spam
 'Hey, are we still meeting for lunch today?' --> ham
+
+## Output Screenshot
+![result](Screenshot%202026-07-05%20165625.png)
